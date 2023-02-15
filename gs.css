@@ -1,6 +1,6 @@
-p {font-family: Italic; font-size: 20px ;color:black;}
-#Act{font-family: 'Times New Roman', Times, serif;font-size: 10px;color: black;background-color: aqua;}
-#Act:hover{color:red;background-color:yellow ;}
+#speech {font-family: Italic; font-size: 20px ;color:black;}
+#Direction{font-family: 'Times New Roman', Times, serif;font-size: 10px;color: black;background-color: aqua;}
+#Direction:hover{color:red;background-color:yellow ;}
 .ANDREW{color:blue}
 .JOEL{color:palevioletred}
 table{
@@ -27,3 +27,18 @@ tr:nth-child(even){
     text-shadow: 1px 3px 2px yellowgreen;
     border-style: groove;    
 }
+ul.navbar-horizontal {
+    /* remove these */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; /* line up horizontally */
+    color:#000;
+    background-color:purple
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    }
