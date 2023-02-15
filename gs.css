@@ -16,4 +16,14 @@ table{
 tr:nth-child(even){
     background-color: darkmagenta;
 }
+.ANDREW:hover{
+    color: brown;
+    text-shadow: 1px 3px 2px palevioletred;
+    border-style: groove;
+}
 
+.JOEL:hover{
+    color: chartreuse;
+    text-shadow: 1px 3px 2px yellowgreen;
+    border-style: groove;    
+}
