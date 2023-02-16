@@ -36,7 +36,7 @@ ul.navbar-horizontal {
     ul.navbar-horizontal li {
     float:left; /* line up horizontally */
     color:#000;
-    background-color:purple
+    background-color:palevioletred
     }
     ul.navbar-horizontal a {
     display:block;
